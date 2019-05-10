@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d9c2b47c-663a-4aaf-8b61-9844c1cf708b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,20 +16,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="393" column="17" selection-start-line="393" selection-start-column="17" selection-end-line="393" selection-end-column="17" />
+            <state relative-caret-position="270">
+              <caret line="515" column="25" lean-forward="true" selection-start-line="515" selection-start-column="25" selection-end-line="515" selection-end-column="25" />
               <folding>
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#6320#6327#1" expanded="true" />
+                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#7308#7315#1" expanded="true" />
                 <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#8295#8302#1" expanded="true" />
+                <element signature="e#9282#9289#1" expanded="true" />
+                <element signature="e#10263#10270#1" expanded="true" />
+                <element signature="n#div#7;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#11250#11257#1" expanded="true" />
+                <element signature="n#div#8;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#12237#12244#1" expanded="true" />
+                <element signature="n#div#9;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#13224#13231#1" expanded="true" />
+                <element signature="e#14211#14218#1" expanded="true" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#6;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/b11.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -45,8 +68,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -68,6 +91,11 @@
             <path>
               <item name="web" type="b2602c69:ProjectViewProjectNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -112,17 +140,19 @@
       <updated>1556424499726</updated>
       <workItem from="1556424504203" duration="8216000" />
       <workItem from="1556448122225" duration="796000" />
-      <workItem from="1556590762613" duration="1172000" />
+      <workItem from="1556590762613" duration="1430000" />
+      <workItem from="1557443851899" duration="2957000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10184000" />
+    <option name="totallyTimeSpent" value="13399000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="90" y="38" width="1233" height="810" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -134,7 +164,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32729805" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32729805" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3286908" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -193,21 +223,41 @@
         <state relative-caret-position="-2250" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="393" column="17" selection-start-line="393" selection-start-column="17" selection-end-line="393" selection-end-column="17" />
-          <folding>
-            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/b11.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="515" column="25" lean-forward="true" selection-start-line="515" selection-start-column="25" selection-end-line="515" selection-end-column="25" />
+          <folding>
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#6320#6327#1" expanded="true" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#7308#7315#1" expanded="true" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#8295#8302#1" expanded="true" />
+            <element signature="e#9282#9289#1" expanded="true" />
+            <element signature="e#10263#10270#1" expanded="true" />
+            <element signature="n#div#7;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#11250#11257#1" expanded="true" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#12237#12244#1" expanded="true" />
+            <element signature="n#div#9;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#13224#13231#1" expanded="true" />
+            <element signature="e#14211#14218#1" expanded="true" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
